@@ -11,7 +11,7 @@
     </dependency>
     <dependency org="google-api-spelling" name="google-api-spelling" rev="1.1">
       <artifact name="google-api-spelling" type="jar"
-        url="https://google-api-spelling-java.googlecode.com/files/google-api-spelling-java-1.1.jar" />
+                url="https://storage.googleapis.com/google-code-archive-downloads/v2/code.google.com/google-api-spelling-java/google-api-spelling-java-1.1.jar" />
     </dependency>
     <dependency org="org.apache" name="apache" rev="9" />
     <dependency org="commons-lang" name="commons-lang" rev="2.5" />
